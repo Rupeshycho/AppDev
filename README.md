@@ -1,6 +1,6 @@
-# insta_clone
+##Android/IOS App with **Flutter**.
 
-Instructor - [Sandish Prajapati](https://github.com/Sprajapati123)
+<h1>Instructor</h1> - <b>[Sandish Prajapati](https://github.com/Sprajapati123)</b>
 
 ## Getting Started
 
