@@ -1,6 +1,7 @@
 ##Android/IOS App with **Flutter**.
 
-<h1>Instructor</h1> - [Sandish Prajapati](https://github.com/Sprajapati123)
+<h1>Instructor</h1> - 
+[Sandish Prajapati](https://github.com/Sprajapati123/)
 
 ## Getting Started
 
