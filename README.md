@@ -1,6 +1,6 @@
 # insta_clone
 
-Sandis Prajapati - Instagram Flutter
+Instructor - [Sandish Prajapati](https://github.com/Sprajapati123)
 
 ## Getting Started
 
